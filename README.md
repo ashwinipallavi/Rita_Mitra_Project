@@ -32,6 +32,16 @@ Raita Mitra addresses these challenges by integrating Machine Learning (ML) and 
 - 🖥️ User-friendly web interface (Flask-based)
 
 ---
+## 🛠️ Built with
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+</p>
+---
+
 
 ## 🧠 Technologies Used
 
@@ -61,6 +71,9 @@ Raita Mitra addresses these challenges by integrating Machine Learning (ML) and 
 ---
 
 ## 📊 Dataset Details
+[Crop recommendation dataset](https://www.kaggle.com/atharvaingle/crop-recommendation-dataset) (custom built dataset)
+[Fertilizer suggestion dataset](https://github.com/Gladiator07/Harvestify/blob/master/Data-processed/fertilizer.csv) (custom built dataset)
+[Disease detection dataset](https://www.kaggle.com/vipoooool/new-plant-diseases-dataset)
 
 - PlantVillage Dataset (Augmented)  
 - ~87,000 RGB images  
@@ -104,6 +117,11 @@ http://localhost:5000
 | XGBoost | 99.3% |
 
 ---
+## 📸 Project Outputs
+🏠 Home Page
+![Home Page]("C:\Users\User\OneDrive\画像\home.png")
+
+
 
 ## 🔮 Future Enhancements
 
