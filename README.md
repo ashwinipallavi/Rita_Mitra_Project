@@ -71,9 +71,9 @@ Raita Mitra addresses these challenges by integrating Machine Learning (ML) and 
 ---
 
 ## 📊 Dataset Details
-[Crop recommendation dataset](https://www.kaggle.com/atharvaingle/crop-recommendation-dataset) (custom built dataset)
-[Fertilizer suggestion dataset](https://github.com/Gladiator07/Harvestify/blob/master/Data-processed/fertilizer.csv) (custom built dataset)
-[Disease detection dataset](https://www.kaggle.com/vipoooool/new-plant-diseases-dataset)
+[Crop recommendation dataset](https://www.kaggle.com/atharvaingle/crop-recommendation-dataset) (custom built dataset)]
+[Fertilizer suggestion dataset](https://github.com/Gladiator07/Harvestify/blob/master/Data-processed/fertilizer.csv) (custom built dataset)]
+[Disease detection dataset](https://www.kaggle.com/vipoooool/new-plant-diseases-dataset]
 
 - PlantVillage Dataset (Augmented)  
 - ~87,000 RGB images  
@@ -118,8 +118,7 @@ http://localhost:5000
 
 ---
 ## 📸 Project Outputs
-🏠 Home Page
-![Home Page]("C:\Users\User\OneDrive\画像\home.png")
+![Home Page] (C:\Users\User\OneDrive\画像\home.png)
 
 
 
