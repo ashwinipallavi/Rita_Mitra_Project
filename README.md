@@ -1,54 +1,58 @@
-# Rita_Mitra_Project
-<h1 align="center">Hi 👋, I'm Pallavi</h1>
-<h3 align="center">Computer Science Engineering Student | Aspiring Software Engineer</h3>
+# 🌾 Rita Mitra Project
+
+A technology-driven solution designed to support farmers by providing data-driven insights and smart recommendations using modern computing techniques.
 
 ---
 
-### 👩‍💻 About Me
-- 🎓 BE CSE student at **The National Institute of Engineering, Mysuru**
-- 💻 Strong interest in **Data Structures & Algorithms**
-- 🚀 Actively practicing **LeetCode** and preparing for **technical interviews**
-- 🛠️ Interested in **Backend Development & Scalable Systems**
-- 📚 Always learning and improving problem-solving skills
+## 📌 Project Overview
+
+**Rita Mitra** is an academic project developed to assist farmers in decision-making by leveraging data analysis and intelligent models.  
+The project focuses on improving agricultural productivity and awareness through a structured software approach.
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-</p>
+## 🎯 Objectives
+
+- To provide useful insights for farmers using data and analytical models  
+- To support better agricultural decision-making  
+- To apply concepts of computer science in solving real-world farming problems  
+- To design a scalable and user-friendly application
 
 ---
 
-### 📌 Projects
-- 🍽️ **Food Waste Management System**  
-  A system to manage and reduce food wastage using structured data handling and backend logic.
+## 🧠 Key Features
 
-- 🌾 **Raitha Mitra Project**  
-  Academic project focused on problem-solving using data analysis and application logic.
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwinipallavi&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinipallavi&theme=tokyonight" />
-</p>
+- 📊 Data analysis using Python  
+- 🤖 Model-based prediction / recommendation system  
+- 🗂️ Organized project structure (models, app, notebooks)  
+- 📈 Academic documentation and research support  
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+## 🛠️ Tech Stack
+
+- **Programming Language:** Python  
+- **Libraries & Tools:**  
+  - NumPy  
+  - Pandas  
+  - Matplotlib / Seaborn  
+  - Scikit-learn  
+- **Development Tools:**  
+  - Jupyter Notebook  
+  - Git & GitHub  
+
+---
+
+## 📁 Project Structure
+
+```bash
+Rita_Mitra_Project/
+│
+├── app/                # Application-related files
+├── models/             # Machine learning / analytical models
+├── notebooks/          # Jupyter notebooks for experimentation
+├── test/               # Testing and validation files
+├── requirements.txt    # Project dependencies
+├── README.md           # Project documentation
+├── Journal_Paper.docx  # Research paper
+├── Raitha_Mitra_Report.pdf  # Project report
