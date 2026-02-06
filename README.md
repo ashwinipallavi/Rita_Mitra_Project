@@ -39,6 +39,8 @@ Raita Mitra addresses these challenges by integrating Machine Learning (ML) and 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+  <img width="677" height="179" alt="Screenshot 2026-02-06 155209" src="https://github.com/user-attachments/assets/709009e1-7d95-4d9c-bb6a-588b4d6a2865" />
+
 </p>
 ---
 
