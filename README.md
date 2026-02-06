@@ -71,8 +71,12 @@ Raita Mitra addresses these challenges by integrating Machine Learning (ML) and 
 ---
 
 ## 📊 Dataset Details
-[Crop recommendation dataset](https://www.kaggle.com/atharvaingle/crop-recommendation-dataset) (custom built dataset)]
-[Fertilizer suggestion dataset](https://github.com/Gladiator07/Harvestify/blob/master/Data-processed/fertilizer.csv) (custom built dataset)]
+[Crop recommendation dataset](
+https://www.kaggle.com/atharvaingle/crop-recommendation-dataset) (custom built dataset)]
+
+[Fertilizer suggestion dataset](https://github.com/Gladiator07/Harvestify/blob/master/Data-processed/fertilizer.csv) 
+(custom built dataset)]
+
 [Disease detection dataset](https://www.kaggle.com/vipoooool/new-plant-diseases-dataset]
 
 - PlantVillage Dataset (Augmented)  
@@ -118,7 +122,13 @@ http://localhost:5000
 
 ---
 ## 📸 Project Outputs
-![Home Page] (C:\Users\User\OneDrive\画像\home.png)
+<img width="661" height="281" alt="fertilizer_input" src="https://github.com/user-attachments/assets/e4d551d3-7b05-4ce8-b070-72e4043fe501" />
+<img width="1163" height="443" alt="dataset" src="https://github.com/user-attachments/assets/1ee64c90-020e-4b80-978a-219e45742646" />
+<img width="634" height="228" alt="Screenshot 2026-02-06 144030" src="https://github.com/user-attachments/assets/dc5027de-f651-4b11-b3ff-2defa3b3cdf2" />
+<img width="667" height="610" alt="crop_result" src="https://github.com/user-attachments/assets/7bf40a72-41dc-4790-87b3-a34830f2e15d" />
+<img width="1200" height="729" alt="Screenshot 2026-02-06 142728" src="https://github.com/user-attachments/assets/942931ec-6285-43aa-8157-9a7e7caf0adc" />
+
+
 
 
 
